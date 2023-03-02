@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "A-World", "A-World", "{649F72B7-8904-4D27-B4B7-7712E125F8E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HTML", "HTML", "{B912D1D6-C935-46EC-AC06-564AA65894AE}"
+	ProjectSection(SolutionItems) = preProject
+		about.html = about.html
+		blog.html = blog.html
+		Camping.html = Camping.html
+		contact.html = contact.html
+		Hiking.html = Hiking.html
+		index.html = index.html
+		QuoteP1.html = QuoteP1.html
+		QuoteP2.html = QuoteP2.html
+		QuoteP3.html = QuoteP3.html
+		Rafting.html = Rafting.html
+		services.html = services.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{7737D067-C784-48E7-9A8B-044C51A7A501}"
+	ProjectSection(SolutionItems) = preProject
+		CSS\.DS_Store = CSS\.DS_Store
+		CSS\animate.min.css = CSS\animate.min.css
+		CSS\bootstrap-grid.css = CSS\bootstrap-grid.css
+		CSS\bootstrap-grid.css.map = CSS\bootstrap-grid.css.map
+		CSS\bootstrap-grid.min.css = CSS\bootstrap-grid.min.css
+		CSS\bootstrap-grid.min.css.map = CSS\bootstrap-grid.min.css.map
+		CSS\bootstrap-reboot.css = CSS\bootstrap-reboot.css
+		CSS\bootstrap-reboot.css.map = CSS\bootstrap-reboot.css.map
+		CSS\bootstrap-reboot.min.css = CSS\bootstrap-reboot.min.css
+		CSS\bootstrap-reboot.min.css.map = CSS\bootstrap-reboot.min.css.map
+		CSS\bootstrap.css = CSS\bootstrap.css
+		CSS\bootstrap.css.map = CSS\bootstrap.css.map
+		CSS\bootstrap.min.css = CSS\bootstrap.min.css
+		CSS\bootstrap.min.css.map = CSS\bootstrap.min.css.map
+		CSS\default-skin.css = CSS\default-skin.css
+		CSS\font-awesome.min.css = CSS\font-awesome.min.css
+		CSS\icomoon.css = CSS\icomoon.css
+		CSS\jquery-ui.css = CSS\jquery-ui.css
+		CSS\jquery.fancybox.min.css = CSS\jquery.fancybox.min.css
+		CSS\jquery.mCustomScrollbar.min.css = CSS\jquery.mCustomScrollbar.min.css
+		CSS\meanmenu.css = CSS\meanmenu.css
+		CSS\nice-select.css = CSS\nice-select.css
+		CSS\normalize.css = CSS\normalize.css
+		CSS\owl.carousel.min.css = CSS\owl.carousel.min.css
+		CSS\responsive.css = CSS\responsive.css
+		CSS\slick.css = CSS\slick.css
+		CSS\style.css = CSS\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{3DB58FDD-9972-434B-BCB3-8DD4246CFC42}"
+	ProjectSection(SolutionItems) = preProject
+		JS\.DS_Store = JS\.DS_Store
+		JS\bootstrap.bundle.js = JS\bootstrap.bundle.js
+		JS\bootstrap.bundle.js.map = JS\bootstrap.bundle.js.map
+		JS\bootstrap.bundle.min.js = JS\bootstrap.bundle.min.js
+		JS\bootstrap.bundle.min.js.map = JS\bootstrap.bundle.min.js.map
+		JS\bootstrap.js = JS\bootstrap.js
+		JS\bootstrap.js.map = JS\bootstrap.js.map
+		JS\bootstrap.min.js = JS\bootstrap.min.js
+		JS\bootstrap.min.js.map = JS\bootstrap.min.js.map
+		JS\custom.js = JS\custom.js
+		JS\jquery-3.0.0.min.js = JS\jquery-3.0.0.min.js
+		JS\jquery.mCustomScrollbar.concat.min.js = JS\jquery.mCustomScrollbar.concat.min.js
+		JS\jquery.min.js = JS\jquery.min.js
+		JS\jquery.validate.js = JS\jquery.validate.js
+		JS\modernizer.js = JS\modernizer.js
+		JS\plugin.js = JS\plugin.js
+		JS\popper.min.js = JS\popper.min.js
+		JS\slider-setting.js = JS\slider-setting.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B912D1D6-C935-46EC-AC06-564AA65894AE} = {649F72B7-8904-4D27-B4B7-7712E125F8E9}
+		{7737D067-C784-48E7-9A8B-044C51A7A501} = {649F72B7-8904-4D27-B4B7-7712E125F8E9}
+		{3DB58FDD-9972-434B-BCB3-8DD4246CFC42} = {649F72B7-8904-4D27-B4B7-7712E125F8E9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {262A61D2-95D3-49E1-A2AA-CE893E7D7A8C}
+	EndGlobalSection
+EndGlobal
