@@ -102,6 +102,21 @@ h6 {
     font-size: 13px
 }
 
+.ad-container {
+    position: fixed;
+    top: 30px;
+    left: 10px;
+    text-align: center;
+}
+
+.ad-container img {
+    border-radius: 50%;
+    border: 2px solid #555;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 150px;
+    height: 150px;
+}
+
 *,
 *::after,
 *::before {
